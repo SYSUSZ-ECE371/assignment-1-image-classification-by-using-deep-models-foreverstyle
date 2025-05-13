@@ -1,0 +1,154 @@
+$ python EX2/main.py
+Using device: cuda:0
+Epoch 0/24
+----------
+Learning Rate: 0.001000
+train Loss: 0.8908 Acc: 0.6686
+val Loss: 0.4075 Acc: 0.8754
+
+Epoch 1/24
+----------
+Learning Rate: 0.001000
+train Loss: 0.4501 Acc: 0.8459
+val Loss: 0.3627 Acc: 0.8632
+
+Epoch 2/24
+----------
+Learning Rate: 0.001000
+train Loss: 0.3777 Acc: 0.8670
+val Loss: 0.3282 Acc: 0.8842
+
+Epoch 3/24
+----------
+Learning Rate: 0.001000
+train Loss: 0.3173 Acc: 0.8916
+val Loss: 0.3245 Acc: 0.8912
+
+Epoch 4/24
+----------
+Learning Rate: 0.001000
+train Loss: 0.3145 Acc: 0.8806
+val Loss: 0.2921 Acc: 0.8825
+
+Epoch 5/24
+----------
+Learning Rate: 0.001000
+train Loss: 0.2742 Acc: 0.9017
+val Loss: 0.2803 Acc: 0.9035
+
+Epoch 6/24
+----------
+Learning Rate: 0.001000
+train Loss: 0.2633 Acc: 0.9021
+val Loss: 0.3006 Acc: 0.8789
+
+Epoch 7/24
+----------
+Learning Rate: 0.000100
+train Loss: 0.2658 Acc: 0.9034
+val Loss: 0.2557 Acc: 0.9070
+
+Epoch 8/24
+----------
+Learning Rate: 0.000100
+train Loss: 0.2481 Acc: 0.9104
+val Loss: 0.2363 Acc: 0.9193
+
+Epoch 9/24
+----------
+Learning Rate: 0.000100
+train Loss: 0.2320 Acc: 0.9157
+val Loss: 0.2383 Acc: 0.9281
+
+Epoch 10/24
+----------
+Learning Rate: 0.000100
+train Loss: 0.2420 Acc: 0.9201
+val Loss: 0.2330 Acc: 0.9105
+
+Epoch 11/24
+----------
+Learning Rate: 0.000100
+train Loss: 0.2254 Acc: 0.9197
+val Loss: 0.2409 Acc: 0.9140
+
+Epoch 12/24
+----------
+Learning Rate: 0.000100
+train Loss: 0.2175 Acc: 0.9263
+val Loss: 0.2262 Acc: 0.9263
+
+Epoch 13/24
+----------
+Learning Rate: 0.000100
+train Loss: 0.2317 Acc: 0.9210
+val Loss: 0.2226 Acc: 0.9211
+
+Epoch 14/24
+----------
+Learning Rate: 0.000010
+train Loss: 0.2392 Acc: 0.9140
+val Loss: 0.2381 Acc: 0.9175
+
+Epoch 15/24
+----------
+Learning Rate: 0.000010
+train Loss: 0.2284 Acc: 0.9183
+val Loss: 0.2610 Acc: 0.9228
+
+Epoch 16/24
+----------
+Learning Rate: 0.000010
+train Loss: 0.2239 Acc: 0.9263
+val Loss: 0.2239 Acc: 0.9211
+
+Epoch 17/24
+----------
+Learning Rate: 0.000010
+train Loss: 0.2140 Acc: 0.9210
+val Loss: 0.2202 Acc: 0.9211
+
+Epoch 18/24
+----------
+Learning Rate: 0.000010
+train Loss: 0.2404 Acc: 0.9144
+val Loss: 0.2269 Acc: 0.9140
+
+Epoch 19/24
+----------
+Learning Rate: 0.000010
+train Loss: 0.2161 Acc: 0.9280
+val Loss: 0.2689 Acc: 0.9035
+
+Epoch 20/24
+----------
+Learning Rate: 0.000010
+train Loss: 0.2071 Acc: 0.9289
+val Loss: 0.2643 Acc: 0.8965
+
+Epoch 21/24
+----------
+Learning Rate: 0.000001
+train Loss: 0.2163 Acc: 0.9179
+val Loss: 0.2253 Acc: 0.9228
+
+Epoch 22/24
+----------
+Learning Rate: 0.000001
+train Loss: 0.2136 Acc: 0.9210
+val Loss: 0.2404 Acc: 0.9263
+
+Epoch 23/24
+----------
+Learning Rate: 0.000001
+train Loss: 0.2100 Acc: 0.9271
+val Loss: 0.2552 Acc: 0.9088
+
+Epoch 24/24
+----------
+Learning Rate: 0.000001
+train Loss: 0.2231 Acc: 0.9276
+val Loss: 0.2692 Acc: 0.8965
+
+Training complete in 8m 34s
+Best val Acc: 0.928070
